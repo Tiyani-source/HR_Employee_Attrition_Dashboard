@@ -15,8 +15,7 @@ The repository includes both the Excel dataset and the final Power BI (.pbix) fi
 
 ## YouTube Demo
 
-[![YouTube Link](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)](https://youtu.be/3wf5U1Q0MXA)
-
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&logoColor=white)](https://youtu.be/3wf5U1Q0MXA)
 
 ## Dashboard 
 
