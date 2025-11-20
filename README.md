@@ -16,6 +16,7 @@ The repository includes both the Excel dataset and the final Power BI (.pbix) fi
 ## YouTube Demo
 
 [![Video Preview]](https://youtu.be/3wf5U1Q0MXA)
+[![Video Preview](https://img.youtube.com/vi/3wf5U1Q0MXA/maxresdefault.jpg)](https://youtu.be/3wf5U1Q0MXA)
 
 
 ## Dashboard 
