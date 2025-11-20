@@ -1,4 +1,4 @@
-# HR_Employee_Attrition_Dashboard
+# HR Employee Attrition Dashboard - PowerBI & Excel
 
 
 ## Overview
